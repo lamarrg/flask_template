@@ -113,6 +113,7 @@ venv.bak/
 # more Flask environment stuff
 .flaskenv
 settings.py
+config.py
 
 
 # Spyder project settings
