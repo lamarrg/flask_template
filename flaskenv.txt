@@ -1,0 +1,8 @@
+# base template for .flaskenv
+
+# from name in run file, most likely enclosing folder name
+FLASK_APP=app  
+
+# defines the environment the variables and important codes are for
+FLASK_ENV=development
+FLASK_DEBUG=True
