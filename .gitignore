@@ -112,7 +112,8 @@ venv.bak/
 
 # more Flask environment stuff
 .flaskenv
-settings.py
+/settings.py
+/config.py
 config.py
 
 
