@@ -115,8 +115,8 @@ venv.bak/
 /settings.py
 /config.py
 config.py
-.wsgi
-/.wsgi
+*.wsgi
+/*.wsgi
 
 
 # Spyder project settings
